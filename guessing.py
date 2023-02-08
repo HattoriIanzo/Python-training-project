@@ -22,3 +22,4 @@ else:
     elif(lessthan):
         print("You missed! You guessed less than the secret number")
 print("Game Over!")
+print("I'm hungry")
